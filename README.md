@@ -1,4 +1,4 @@
-- ◼️ Hi, I’m @MonzaRosa, I'm a 20yo Vet student.
+- ◼️ Hi, I’m @MonzaRosa, I'm a 20yo programming student
 - ◼️ I’m interested in learning and improving my back-end dev skills.
 - ◼️ How to reach me: contato.monzarosa@gmail.com 
 <!---
