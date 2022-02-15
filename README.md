@@ -2,12 +2,15 @@
 - ◼️ I’m interested in learning and improving my back-end dev skills.
 - ◼️ How to reach me: contato.monzarosa@gmail.com 
 
+<br>
+
 <div>
-  <a href="https://github.com/MonzaRosa">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=MonzaRosa&show_icons=true&theme=radical&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonzaRosa&layout=compact&theme=radical"/>
+  <a href="https://github.com/Jeleiea">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeleia&show_icons=true&theme=radical&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeleia&layout=compact&theme=radical"/>
 </div>
   
+<br>
   <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MonzaRosa&label=Profile%20views&color=444444&style=flat" alt="MonzaRosa" /> 
 </p>
