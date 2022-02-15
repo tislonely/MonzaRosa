@@ -5,9 +5,9 @@
 <br>
 
 <div>
-  <a href="https://github.com/Jeleiea">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeleia&show_icons=true&theme=radical&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeleia&layout=compact&theme=radical"/>
+  <a href="https://github.com/MonzaRosa">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=MonzaRosa&show_icons=true&theme=radical&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonzaRosa&layout=compact&theme=radical"/>
 </div>
   
 <br>
@@ -26,7 +26,7 @@
   <h3 align="center">Entre em contato em:</h3>
  <p align="center">
   
-   <a href="https://www.linkedin.com/in/Carlos-Gouveia-5595a1231/" target="blank">
+   <a href="https://www.linkedin.com/in/carlos-gabriel-gouveia-27198721b/" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
    </a>
   
