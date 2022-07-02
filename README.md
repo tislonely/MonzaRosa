@@ -1,11 +1,11 @@
-- ◼️ Hi, I’m @MonzaRosa, I'm a 20yo Web Development student
+- ◼️ Hi, I’m @Tislonely, I'm a 20yo Web Development student
 - ◼️ I’m interested in learning and improving my back-end dev skills.
-- ◼️ How to reach me: contato.monzarosa@gmail.com 
+- ◼️ How to reach me: lonelycube10@gmail.com
 
 <br>
 
 <div>
-  <a href="https://github.com/MonzaRosa">
+  <a href="https://github.com/Tislonely">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=MonzaRosa&show_icons=true&theme=radical&count_private=true"/>
 </div>
   
@@ -29,7 +29,7 @@
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
    </a>
   
-   <a href="https://www.instagram.com/monzarosa" target="blank">
+   <a href="https://www.instagram.com/tislonely" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeleia" height="30" width="40" />
    </a>
   </p>
